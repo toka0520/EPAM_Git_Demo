@@ -7,3 +7,4 @@ new line for branch
 next line for branch
 
 next line for merging branch
+next test
