@@ -12,3 +12,5 @@ next test
 conflict resolve master
 
 future marge resolve
+
+for tag only
