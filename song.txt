@@ -5,3 +5,5 @@ second line of text
 
 new line for branch
 next line for branch
+
+next line for merging branch
