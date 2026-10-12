@@ -8,3 +8,5 @@ next line for branch
 
 next line for merging branch
 next test
+
+conflict resolve master
